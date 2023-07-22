@@ -1,9 +1,9 @@
 {
   "barbers": [
-    { "id": "Ivan", "name": "Ваня Педрила", "info": "Старший Барбер", "img": "/masters/Vanya.jpg", "pallette": "rgba(170, 152, 76, .6)" },
-    { "id": "Vlad", "name": "Влад Чертила", "info": "Старший Барбер", "img": "/masters/Vlados.jpg", "pallette": "rgba(166, 212, 140, .6)" },
-    { "id": "Maks", "name": "Макс Хуила", "info": "Старший Барбер", "img": "/masters/Mahon.jpg", "pallette": "rgba(219, 84, 236, .6)" },
-    { "id": "Dima", "name": "Дима Пидор", "info": "На подсосе", "img": "/masters/DimaPidor.jpg", "pallette": "rgba(179, 195, 130, .6)" },
-    { "id": "Dima2", "name": "Дима Гандон", "info": "На подсосе", "img": "/masters/DimaGandon.jpg", "pallette": "rgba(225, 127, 116, .6)" }
+    { "id": "Ivan", "name": "Ваня", "info": "Старший Барбер", "img": "/masters/Vanya.jpg", "pallette": "rgba(170, 152, 76, .6)" },
+    { "id": "Vlad", "name": "Влад", "info": "Старший Барбер", "img": "/masters/Vlados.jpg", "pallette": "rgba(166, 212, 140, .6)" },
+    { "id": "Maks", "name": "Макс", "info": "Старший Барбер", "img": "/masters/Mahon.jpg", "pallette": "rgba(219, 84, 236, .6)" },
+    { "id": "DimaCH", "name": "Дима", "info": "Барбер", "img": "/masters/DimaPidor.jpg", "pallette": "rgba(179, 195, 130, .6)" },
+    { "id": "DimaB", "name": "Дима", "info": "Барбер", "img": "/masters/DimaGandon.jpg", "pallette": "rgba(225, 127, 116, .6)" }
   ]
 }
