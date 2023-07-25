@@ -1,9 +1,9 @@
 {
   "barbers": [
-    { "id": "Ivan", "name": "Ваня", "info": "Старший Барбер", "img": "/masters/Vanya.jpg", "pallette": "rgba(170, 152, 76, .6)" },
-    { "id": "Vlad", "name": "Влад", "info": "Старший Барбер", "img": "/masters/Vlados.jpg", "pallette": "rgba(166, 212, 140, .6)" },
-    { "id": "Maks", "name": "Макс", "info": "Старший Барбер", "img": "/masters/Mahon.jpg", "pallette": "rgba(219, 84, 236, .6)" },
-    { "id": "DimaCH", "name": "Дима", "info": "Барбер", "img": "/masters/DimaCH.jpg", "pallette": "rgba(179, 195, 130, .6)" },
-    { "id": "DimaB", "name": "Дима", "info": "Барбер", "img": "/masters/DimaB.jpg", "pallette": "rgba(225, 127, 116, .6)" }
+    { "id": "Ivan", "name": "Ваня", "info": "Старший Барбер", "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Vanya.png", "pallette": "rgba(170, 152, 76, .6)" },
+    { "id": "Vlad", "name": "Влад", "info": "Старший Барбер", "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Vlados.png", "pallette": "rgba(166, 212, 140, .6)" },
+    { "id": "Maks", "name": "Макс", "info": "Старший Барбер", "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Mahon.png", "pallette": "rgba(219, 84, 236, .6)" },
+    { "id": "DimaCH", "name": "Дима", "info": "Барбер", "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaCH.png", "pallette": "rgba(179, 195, 130, .6)" },
+    { "id": "DimaB", "name": "Дима", "info": "Барбер", "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaB.png", "pallette": "rgba(225, 127, 116, .6)" }
   ]
 }
