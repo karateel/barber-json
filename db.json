@@ -40,16 +40,5 @@
       "inst": "https://www.instagram.com/dimalekan",
       "pallette": "rgba(225, 127, 116, .6)" 
     }
-  ],
-  salons: [
-    {
-      "id": "1",
-      "name": "Глушко 16/18",
-      "photo": "",
-    },
-    {
-      "id" : "2",
-      "name": "Альтаир"
-      "photo": "",
   ]
 }
