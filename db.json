@@ -39,6 +39,22 @@
       "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaCH.png", 
       "inst": "https://www.instagram.com/dimalekan",
       "pallette": "rgba(225, 127, 116, .6)" 
+    },
+    { 
+      "id": "Lesya", 
+      "name": "Леся", 
+      "info": "Старшый Администратор, нумеролог, таролог, SMM, маммолог", 
+      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Lesya.JPG", 
+      "inst": "https://www.instagram.com/lusindada",
+      "pallette": "rgba(175, 131, 132, .6)" 
+    },
+    { 
+      "id": "Kirill", 
+      "name": "Кирилл", 
+      "info": "Администратор, ", 
+      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Kirill.jpg", 
+      "inst": "https://www.instagram.com/kirillisokay",
+      "pallette": "rgba(222, 207, 210, .6)" 
     }
   ]
 }
