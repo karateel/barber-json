@@ -1,60 +1,66 @@
 {
-  "barbers": [
-    { 
-      "id": "Ivan", 
-      "name": "Ваня", 
-      "info": "Старший Барбер", 
-      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Vanya.png",
-      "inst" : "https://www.instagram.com/yant_barber",
-      "pallette": "rgba(170, 152, 76, .6)" 
-    },
-    { 
-      "id": "Vlad", 
-      "name": "Влад", 
-      "info": "Старший Барбер", 
-      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Vlados.png", 
-      "inst" : "https://www.instagram.com/xavladyk",
-      "pallette": "rgba(166, 212, 140, .6)" 
-    },
-    { 
-      "id": "Maks", 
-      "name": "Макс", 
-      "info": "Старший Барбер", 
-      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Maxon.png",
-      "inst" : "https://www.instagram.com/maxsi.iim",
-      "pallette": "rgba(219, 84, 236, .6)" 
-    },
-    { 
-      "id": "DimaB", 
-      "name": "Дима", 
-      "info": "Барбер", 
-      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaB.png",
-      "inst": "https://www.instagram.com/sil3nce.xx",
-      "pallette": "rgba(179, 195, 130, .6)" 
-    },
-    { 
-      "id": "DimaCH", 
-      "name": "Дима", 
-      "info": "Барбер", 
-      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaCH.png", 
-      "inst": "https://www.instagram.com/dimalekan",
-      "pallette": "rgba(225, 127, 116, .6)" 
-    },
-    { 
-      "id": "Lesya", 
-      "name": "Леся", 
-      "info": "Старший администратор, нумеролог, таролог, SMM, маммолог", 
-      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Lesya.JPG", 
-      "inst": "https://www.instagram.com/lusindada",
-      "pallette": "rgba(175, 131, 132, .6)" 
-    },
-    { 
-      "id": "Kirill", 
-      "name": "Кирилл", 
-      "info": "Администратор, разработчик", 
-      "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Kirill.jpg", 
-      "inst": "https://www.instagram.com/kirillisokay",
-      "pallette": "rgba(222, 207, 210, .6)" 
+  "artist": [
+    {
+      "barbers": [
+        {
+          "id": "Ivan",
+          "name": "Ваня",
+          "info": "Старший Барбер",
+          "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Vanya.png",
+          "inst": "https://www.instagram.com/yant_barber",
+          "pallette": "rgba(170, 152, 76, .6)"
+        },
+        {
+          "id": "Vlad",
+          "name": "Влад",
+          "info": "Старший Барбер",
+          "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Vlados.png",
+          "inst": "https://www.instagram.com/xavladyk",
+          "pallette": "rgba(166, 212, 140, .6)"
+        },
+        {
+          "id": "Maks",
+          "name": "Макс",
+          "info": "Старший Барбер",
+          "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Maxon.png",
+          "inst": "https://www.instagram.com/maxsi.iim",
+          "pallette": "rgba(219, 84, 236, .6)"
+        },
+        {
+          "id": "DimaB",
+          "name": "Дима",
+          "info": "Барбер",
+          "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaB.png",
+          "inst": "https://www.instagram.com/sil3nce.xx",
+          "pallette": "rgba(179, 195, 130, .6)"
+        },
+        {
+          "id": "DimaCH",
+          "name": "Дима",
+          "info": "Барбер",
+          "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaCH.png",
+          "inst": "https://www.instagram.com/dimalekan",
+          "pallette": "rgba(225, 127, 116, .6)"
+        }
+      ],
+      "salons": [
+        {
+          "id": 1,
+          "title": "Глушко 16/18",
+          "description": "Карта",
+          "img": "https://murchim.ru/_sf/4/49531350.jpg",
+          "color": "rgba(252,218,0,1)",
+          "number": "+380 (93) 604 91 90"
+        },
+        {
+          "id": 2,
+          "title": "Люстдорфская 55/2",
+          "description": "Карта",
+          "img": "https://static9.depositphotos.com/1594920/1088/i/450/depositphotos_10889910-stock-photo-angry-chihuahua-growling-2-years.jpg",
+          "color": "rgba(250,100,0,1)",
+          "number": "+380 (63) 816 89 81"
+        }
+      ]
     }
   ]
 }
