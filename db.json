@@ -67,8 +67,8 @@
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/altair.png",
           "color": "rgba(252,218,0,1)",
           "number": "+380 (93) 604 91 90",
-          "lat": 46.39915,
-          "lng": 30.72152
+          "lng": 46.39915,
+          "lat": 30.72152
         },
         {
           "id": 2,
@@ -77,8 +77,8 @@
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/altair.png",
           "color": "rgba(250,100,0,1)",
           "number": "+380 (63) 816 89 81",
-          "lat" : 46.42234,
-          "lng" : 30.72548
+          "lng" : 46.42234,
+          "lat" : 30.72548
         }
       ]
     }
