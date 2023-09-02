@@ -65,7 +65,6 @@
           "title": "Глушко 16/18",
           "description": "Карта",
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/altair.png",
-          "color": "rgba(252,218,0,1)",
           "number": "+380 (93) 604 91 90",
           "lng": 46.39915,
           "lat": 30.72152
@@ -75,7 +74,6 @@
           "title": "Люстдорфская 55/2",
           "description": "Карта",
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/altair.png",
-          "color": "rgba(250,100,0,1)",
           "number": "+380 (63) 816 89 81",
           "lng" : 46.42234,
           "lat" : 30.72548
