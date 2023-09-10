@@ -4,7 +4,7 @@
       "barbers": [
         {
           "id": "Ivan",
-          "name": "Ваня",
+          "name": "Іван",
           "info": "Старший Барбер",
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Vanya.png",
           "inst": "https://www.instagram.com/yant_barber",
@@ -28,7 +28,7 @@
         },
         {
           "id": "DimaB",
-          "name": "Дима",
+          "name": "Дмитро",
           "info": "Барбер",
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaB.png",
           "inst": "https://www.instagram.com/sil3nce.xx",
@@ -36,7 +36,7 @@
         },
         {
           "id": "DimaCH",
-          "name": "Дима",
+          "name": "Дмитро",
           "info": "Барбер",
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/DimaCH.png",
           "inst": "https://www.instagram.com/dimalekan",
@@ -45,15 +45,15 @@
         { 
           "id": "Lesya", 
           "name": "Леся", 
-          "info": "Старший администратор, нумеролог, таролог, SMM, маммолог", 
+          "info": "Старший адміністратор, нумеролог, таролог, SMM, суєтолог", 
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Lesya.JPG", 
           "inst": "https://www.instagram.com/lusindada",
           "pallette": "rgba(175, 131, 132, .6)" 
         },
         { 
           "id": "Kirill", 
-          "name": "Кирилл", 
-          "info": "Администратор, разработчик", 
+          "name": "Кирило", 
+          "info": "Адміністратор, веб-розробник", 
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/Kirill.jpg", 
           "inst": "https://www.instagram.com/kirillisokay",
           "pallette": "rgba(222, 207, 210, .6)" 
@@ -71,7 +71,7 @@
         },
         {
           "id": 2,
-          "title": "Люстдорфская 55/2",
+          "title": "Люстдорфська 55/2",
           "description": "Карта",
           "img": "https://raw.githubusercontent.com/karateel/artist-photos/main/altair.png",
           "number": "+380 (63) 816 89 81",
